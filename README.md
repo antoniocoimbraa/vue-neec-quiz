@@ -13,7 +13,7 @@ git clone https://github.com/antoniocoimbraa/vue-neec-quiz.git
 3. Install Dependencies
 
 ```
-# Inside the project folder 'vue-quiz-tutorial'
+# Inside the project folder 'vue-neec-quiz'
 npm install
 ```
 
